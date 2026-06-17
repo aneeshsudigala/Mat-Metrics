@@ -16,7 +16,7 @@ An Interactive Explorer For NCAA Division 1 Wrestling Championship Results
 - Placement Badges With Medal Emojis
 - Year-At-A-Glance Stats
 - Quick-Select Tabs
-### Visualizations & Analytics
+### Visualizations
 - Top States By Placers
 - Champion Leaders
 - State Points Over Time
