@@ -2,9 +2,27 @@
 
 An Interactive Explorer For NCAA Division 1 Wrestling Championship Results
 
-## Screen Capture
-
-![Screen Capture](https://github.com/aneeshsudigala/Mat-Metrics/blob/main/screencapture.png)
+## Features
+ 
+### All Athletes
+- Browse All 1,152+ Placers
+- Advanced Filtering
+- Multi-Column Sorting
+- Pagination
+- Real-Time Search
+### Results by Year
+- Tournament-By-Tournament View
+- Organized By Weight Class
+- Placement Badges With Medal Emojis
+- Year-At-A-Glance Stats
+- Quick-Select Tabs
+### Visualizations & Analytics
+- Top States By Placers
+- Champion Leaders
+- State Points Over Time
+- Weight Class Coverage
+- Placement Distribution
+- Multi-Year Placers
 
 ## Setup
 
