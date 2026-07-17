@@ -1,10 +1,6 @@
-# Mat Metrics
+<h1 align="center">🤼 Mat Metrics</h1>
 
-An Interactive Explorer For NCAA Division 1 Wrestling Championship Results
-
-## Screen Capture
-
-![Screen Capture](https://github.com/aneeshsudigala/Mat-Metrics/blob/main/screencapture.png)
+<p align="center"><b><strong>An Interactive Explorer For NCAA Division 1 Wrestling Championship Results</strong></p>
 
 ## Features
  
@@ -17,7 +13,7 @@ An Interactive Explorer For NCAA Division 1 Wrestling Championship Results
 ### Results by Year
 - Tournament-By-Tournament View
 - Organized By Weight Class
-- Placement Badges With Medal Emojis
+- Placement Badges
 - Year-At-A-Glance Stats
 - Quick-Select Tabs
 ### Visualizations
